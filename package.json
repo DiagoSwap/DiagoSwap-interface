@@ -1,7 +1,7 @@
 {
   "name": "@pancakeswap/interface",
   "description": "Pancakeswap Interface",
-  "homepage": ".",
+  "homepage": "https://diagoswap.github.io/diagoswap-interface",
   "private": true,
   "dependencies": {
     "@binance-chain/bsc-connector": "^1.0.0",
